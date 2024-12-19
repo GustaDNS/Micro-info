@@ -1,0 +1,5 @@
+name = input("Qual é seu nome?\n")
+adress = input("Qual é sua morada?\n")
+number	= int(input("Qual é seu número?\n"))
+course = input("Qual é seu curso?\n")
+print(f"Seu nome é {name}, sua morada é {adress}, seu número de telemovel é {number} e seu curso é {course}!")
